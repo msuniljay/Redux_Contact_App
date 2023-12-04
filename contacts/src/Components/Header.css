@@ -1,0 +1,8 @@
+.title{
+    
+    background-color: darkblue;
+    color: white;
+    display: flex;
+    padding:10px 0px;
+    font-size: 20px;
+}

@@ -1,0 +1,34 @@
+.table-title{
+    font-size: 20px;
+    font-weight:bold;
+    margin-top:35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20rem;
+}
+.table-title button{
+    width: 5rem;
+    height: 2rem;
+}
+.table-section{
+    /* border: 1px solid lightblue; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0 30px;
+    margin-top:5%
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+th,td{
+    border-bottom: 1px solid #ddd;
+    padding: 10px 0px;
+}
+tr:hover{
+    background-color: #ddd;
+    
+}
